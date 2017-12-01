@@ -1,0 +1,123 @@
+.btn-cool {
+  background-color:#3b5998;
+  color: #FFF;
+}
+.navbar {
+  border: 1px solid #CCC;
+}
+
+#erb-learn-more {
+  margin-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.floater {
+  position: relative;
+  z-index: 1031;
+  overflow: hidden;
+  background: #ffffff url("../img/bg-splash-1920.png") no-repeat;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.splash-heading {
+  background-color: rgba(0, 0, 0, .5);
+  margin: 0 auto;
+  padding: 40px;
+  color: #FFF;
+}
+.splash-name-title {
+  text-align: center;
+  padding-bottom: 20px;
+  margin-top: 20px;
+}
+.job-title-slider {
+  padding: 10px;
+}
+.slider-nav {
+  padding: 0px;
+  text-align: left;
+  display: block;
+  font-size: 14px;
+}
+img#splash-image {
+  height: 200px;
+  width: 200px;
+  margin: auto;
+  display: block;
+}
+body {
+  overflow: hidden;
+}
+
+/*masthead styles */
+.masthead-content {
+
+}
+.enlarged-h1 {
+  font-size: 50px;
+}
+
+
+/* Skill Card CSS */
+.skill-card-section {
+  padding: 10px;
+}
+.skill-card {
+
+}
+.skill-card-wrapper {
+  padding: 10px;
+  border: 1px solid #CCC;
+  margin: 2px;
+}
+.skill-card .skill-card-image {
+  margin: auto;
+  display: block;
+}
+.skill-card .skill-card-image img {
+  height: 100px;
+  width: 100px;
+  padding: 10px;
+  padding-left: 0px;
+}
+.skill-card .skill-card-body {
+  padding: 10px;
+}
+.skill-card .skill-card-arrow-link {
+  display: flex;
+  align-items: center;
+  border-left: 1px solid #CCC;
+}
+.skill-card .skill-card-arrow {
+  text-align: center;
+}
+.skill-card .skill-card-arrow-link:hover {
+  background-color: #3b5998;
+  color: #FFF;
+}
+
+/*Experience card CSS */
+
+.experience {
+ background-color: #F0D3C1;
+ color: #000;
+}
+.experience-card {
+  margin-bottom: 10px;
+  background-color: #ffede2;
+  border: 1px solid #8e3520;
+}
+.experience-card-header {
+  padding-top: 10px;
+  border-bottom: 1px solid #8e3520;
+  background-color: #8e3520;
+  color: #FFF;
+}
+.experience-card-date {
+  font-size: 20px;
+}
+.experience-card-subheading {
+    padding-top: 10px;
+}
